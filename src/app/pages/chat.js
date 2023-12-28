@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import styles from './styles/page.module.css'
-import Navbar from './components/navbar.jsx'
+import Navbar from '../components/navbar.jsx'
+import './styles/chat.css'
 
 export default function Home() {
   return (
@@ -12,3 +12,5 @@ export default function Home() {
     </main>
   )
 }
+
+console.log('hello world');
