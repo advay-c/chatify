@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # Chatify
-[Chatify](https://chatify.tunnelapp.dev)! A tool to communicate with family, friends, and communities online. Paired with great features like End-To-End encryption, customizability, a privacy-focused platform, and more.
+[Chatify](https://realchatify.vercel.app/)! A tool to communicate with family, friends, and communities online. Paired with great features like End-To-End encryption, customizability, a privacy-focused platform, and more.
 
 That aside, we aren't expecting people to use Chatify over any other application like [Discord](https://discord.com) and [WhatsApp](https://whatsapp.com). We made this project test our skills.
 
@@ -12,7 +12,7 @@ Meet our team! [Abdifatah-Abdi](https://github.com/Abdifatah-Abdi), [Omar](https
 
 [Omar](https://github.com/Elyossef-Omar) is in charge of the little things, contributing to a mix of both frontend UI fixes & improvements, & added some backend functionality.
 
-[Advay-c](https://github.com/advay-c) is in charge of code optimization, bringing ui designs to life, bug fixes, and prioritizing Git, GitHub & tunnel utilization.
+[Advay-c](https://github.com/advay-c) is in charge of code optimization, bringing ui designs to life, bug fixes, working with mongodb along with react, and prioritizing Git utilization.
 
 ## What makes Chatify unique?
 Chatify is unique because, unlike other platforms, we don't collect and sell user data (albeit, we don't know how to do that), We offer tons of customizability for our platform, including modifications, and a dedicated API (coming soon). Not to mention, Chatify is open source.
