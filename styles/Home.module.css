@@ -5,6 +5,7 @@
   align-items: center;
   padding: 1.25rem;
   font-size: 2rem;
+  font-family: Inter;
 }
 
 .description {
@@ -202,7 +203,6 @@
   }
 }
 
-/* Tablet and Smaller Desktop */
 @media (min-width: 701px) and (max-width: 1120px) {
   .grid {
     grid-template-columns: repeat(2, 50%);
